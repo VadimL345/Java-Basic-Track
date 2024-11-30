@@ -1,1 +1,37 @@
+# Каталог для зібраних класів
+/bin/
 
+# Каталог для зібраних артефактів
+/target/
+
+# Файли Java, згенеровані середовищем розробки (IDE)
+.idea/
+.vscode/
+
+# Файли Eclipse
+.classpath
+.project
+.settings/
+
+# Файли IntelliJ IDEA
+*.iml
+
+# Файли Maven
+*.log
+*.jar
+*.war
+*.ear
+
+# Файли gradle
+.gradle/
+build/
+
+# Файли, створені при компіляції
+*.class
+
+# Файли, створені під час тестування
+test-output/
+
+# Файли конфігурацій IDE
+*.swp
+*.swo
