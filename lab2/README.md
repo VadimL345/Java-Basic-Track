@@ -8,6 +8,8 @@
 2. **Перейдіть у дерикторію:**
    ```bash
    cd Java-Basic-Track\lab2\src\main\java\lab2
+   
 3. Запустіть програму:
    ```bash
     java Main.java
+   
