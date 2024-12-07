@@ -4,6 +4,7 @@
 1. **Склонуйте репозиторій на ваш локальний комп’ютер:**
    ```bash
    git clone https://github.com/VadimL345/Java-Basic-Track.git
+   
 2. **Перейдіть у дерикторію:**
    ```bash
    cd Java-Basic-Track\lab2\src\main\java\lab2
