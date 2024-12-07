@@ -5,7 +5,7 @@
    ```bash
    git clone https://github.com/VadimL345/Java-Basic-Track.git
    
-2. **Перейдіть у дерикторію:**
+2. **Перейдіть у директорію:**
    ```bash
    cd Java-Basic-Track\lab1\src\main\java\lab1
    
