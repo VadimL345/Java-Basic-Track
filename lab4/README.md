@@ -6,7 +6,7 @@
    
 2. **Перейдіть у директорію:**
    ```bash
-   cd Java-Basic-Track\lab2\src\main\java\lab4
+   cd Java-Basic-Track\lab4\src\main\java\lab4
 3. Запустіть програму:
    ```bash
     java Main.java
